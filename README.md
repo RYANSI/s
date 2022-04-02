@@ -1,15 +1,15 @@
-# Specialized Education
-SPED also known as Specialized Education is a platform that aims to revolutionize remote learning for children with learning disablties (dyslexia, dysgraphia, auditory processing disorder, and visual perceptual). SPED establishes a fun & effective remote learning environment for children with learning disabilities and provides a effective and cost-free solutions to the problems that these children faced during remote learning previously.
+# Study Now
+Study Now also known as Specialized Education is a platform that aims to revolutionize remote learning for children with learning disablties (dyslexia, dysgraphia, auditory processing disorder, and visual perceptual). Study Now establishes a fun & effective remote learning environment for children with learning disabilities and provides a effective and cost-free solutions to the problems that these children faced during remote learning previously.
 
 ## 💡 Inspiration
 
-Remote learning posed challenges for everyone, but according to studies it affected children with learning disabilities the most. During virtual learning, a lot of these children did not have access to the same resources as they did at school. The lack of assistance children with learning disabilities were receiving in remote learning left them behind from other kids of their age. This made it paramount to address this problem. To provide a solution to this problem, we created a website called SPED (Specialized Education). Our website can help students with disabilities learn better and provide information for teachers to be able to help their students better. 
+Remote learning posed challenges for everyone, but according to studies it affected children with learning disabilities the most. During virtual learning, a lot of these children did not have access to the same resources as they did at school. The lack of assistance children with learning disabilities were receiving in remote learning left them behind from other kids of their age. This made it paramount to address this problem. To provide a solution to this problem, we created a website called Study Now (Study Now). Our website can help students with disabilities learn better and provide information for teachers to be able to help their students better. 
 
 ## 💻 What it does
 
-SPED’s ethical vision is to give quality education to children with learning disabilities and put them on the same playing field as other kids of their same age. 
+Study Now’s ethical vision is to give quality education to children with learning disabilities and put them on the same playing field as other kids of their same age. 
 
-SPED has various features which target and provide a solution for the different types of learning disabilities that children have: 
+Study Now has various features which target and provide a solution for the different types of learning disabilities that children have: 
 
 - **Emotion camera 📷 :**  In a classroom setting, it's easy to identify when a student is confused about the topic that is being taught, but in a virtual setting it is significantly hard. The Emotion Camera allows teachers to gauge students mood (confused, happy, sad, normal) and assess their understanding of the lesson, to adjust their lectures accordingly.
 
@@ -31,14 +31,15 @@ Furthermore to build our presentation slide we used Canva and then to build our 
 ## 🧠 Challenges we ran into
 We all are from different time zones so we had a hard time to coordinate timings that would be feasible for all of us. Additionally we also had a few internet problems due to which some our code did not save.   Despite all the challenges we faced, in the end we were successfully able to finish our features and site and record the demo video.  
 
-## 🚀 What's next for SPED: Specialized Education
- 
-In the future, SPED hopes to: 
+## 🚀 What's next for Study Now
+In the future, Study Now hopes to: 
 * Utilize artificial intelligence (AI) to recommend personalized flashcard sets and quizzes! 
 * Create an ios and android learning app with fun ways to review and study 
 * Implement user authentication for teachers and students so that each student could have their own specific platform to work and learn on
 * Graph the data of the student emotions after lessons and send it to the teachers so that the teachers can adjust their lessons and materials accordingly
 * Expand the Augmented reality gallery and implement a sorting algorithm to sort representations with the subject(s) they relate to (Ex: skeleton clavicle goes with human biology and elephant goes with wildlife)
+* Note Taking app to studnets take notes
+* 
 
 ## 📔 References
 
@@ -46,16 +47,9 @@ In the future, SPED hopes to:
 
 ## 👭 Team
 
-- Cyra Alesha - Emotion detector camera and video.
-- Lily Khan - Site Design, Front-end and Logo.
-- Reeva Khokhar - AR, TTS and STT.
-- Cow Burton - Front-end of the site.
+- Aaron
+- Jess
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/cyraalesha"><img src="https://media.discordapp.net/attachments/857709079714594826/867382194186747904/Screen_Shot_2021-07-21_at_19.25.22.png" width="100px;" alt=""/><br /><sub><b>Cyra Alesha</b></sub></a></td>
-    <td align="center"><a href="https://github.com/lilykhan786"><img src="https://avatars1.githubusercontent.com/u/47777673?s=460&u=b5531e40e1b9a31078e024f861116678fecaa826&v=4" width="100px;" alt=""/><br /><sub><b>Lily Khan</b></sub></a></td>
-        <td align="center"><a href="https://github.com/reevakhokhar"><img src="https://media.discordapp.net/attachments/857709079714594826/867477429476261908/AvatarMaker.png" width="100px;" alt=""/><br /><sub><b>Reeva Khokhar</b></sub></a></td>
-    <td align="center"><a href="https://github.com/SilentElapid"><img src="https://avatars.githubusercontent.com/u/69002970?v=4" width="100px;" alt=""/><br /><sub><b>Cow Burton</b></sub></a></td>
-  </tr>
-</table>
+  
